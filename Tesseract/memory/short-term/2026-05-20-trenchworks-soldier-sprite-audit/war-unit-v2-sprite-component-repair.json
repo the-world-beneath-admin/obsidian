@@ -1,0 +1,6399 @@
+[
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 162,
+    "removed_bboxes": [
+      [
+        62,
+        118,
+        82,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 139,
+    "removed_bboxes": [
+      [
+        51,
+        119,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 106,
+    "removed_bboxes": [
+      [
+        47,
+        121,
+        65,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 91,
+    "removed_bboxes": [
+      [
+        43,
+        121,
+        60,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-crawl-right-00.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 124,
+    "removed_bboxes": [
+      [
+        55,
+        120,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 358,
+    "removed_bboxes": [
+      [
+        63,
+        238,
+        89,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 440,
+    "removed_bboxes": [
+      [
+        50,
+        235,
+        79,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 425,
+    "removed_bboxes": [
+      [
+        44,
+        236,
+        73,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 413,
+    "removed_bboxes": [
+      [
+        39,
+        236,
+        68,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 491,
+    "removed_bboxes": [
+      [
+        61,
+        237,
+        96,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 354,
+    "removed_bboxes": [
+      [
+        52,
+        241,
+        81,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 232,
+    "removed_bboxes": [
+      [
+        44,
+        245,
+        71,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 198,
+    "removed_bboxes": [
+      [
+        33,
+        246,
+        59,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 450,
+    "removed_bboxes": [
+      [
+        53,
+        107,
+        85,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 473,
+    "removed_bboxes": [
+      [
+        35,
+        108,
+        78,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 384,
+    "removed_bboxes": [
+      [
+        47,
+        110,
+        76,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 433,
+    "removed_bboxes": [
+      [
+        21,
+        109,
+        63,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-combat-medic-v2/war-unit-combat-medic-v2-crawl-left-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 90,
+    "removed_bboxes": [
+      [
+        82,
+        121,
+        100,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-combat-medic-v2/war-unit-combat-medic-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 617,
+    "removed_bboxes": [
+      [
+        51,
+        101,
+        88,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-combat-medic-v2/war-unit-combat-medic-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 645,
+    "removed_bboxes": [
+      [
+        38,
+        101,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-combat-medic-v2/war-unit-combat-medic-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 610,
+    "removed_bboxes": [
+      [
+        33,
+        102,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-combat-medic-v2/war-unit-combat-medic-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 563,
+    "removed_bboxes": [
+      [
+        31,
+        102,
+        66,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-echo-runner-v2/war-unit-echo-runner-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 395,
+    "removed_bboxes": [
+      [
+        41,
+        109,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-echo-runner-v2/war-unit-echo-runner-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 351,
+    "removed_bboxes": [
+      [
+        41,
+        111,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-echo-runner-v2/war-unit-echo-runner-v2-crawl-right-02.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 452,
+    "removed_bboxes": [
+      [
+        39,
+        113,
+        65,
+        127
+      ],
+      [
+        119,
+        44,
+        127,
+        64
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-echo-runner-v2/war-unit-echo-runner-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 264,
+    "removed_bboxes": [
+      [
+        33,
+        114,
+        59,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-field-doctor-v2/war-unit-field-doctor-v2-crawl-left-00.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 90,
+    "removed_bboxes": [
+      [
+        82,
+        121,
+        100,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-field-doctor-v2/war-unit-field-doctor-v2-crawl-right-00.png",
+    "removed_components": [
+      2,
+      3
+    ],
+    "removed_pixels": 889,
+    "removed_bboxes": [
+      [
+        51,
+        101,
+        88,
+        127
+      ],
+      [
+        99,
+        64,
+        114,
+        80
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-field-doctor-v2/war-unit-field-doctor-v2-crawl-right-01.png",
+    "removed_components": [
+      2,
+      3
+    ],
+    "removed_pixels": 917,
+    "removed_bboxes": [
+      [
+        38,
+        101,
+        79,
+        127
+      ],
+      [
+        91,
+        64,
+        106,
+        80
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-field-doctor-v2/war-unit-field-doctor-v2-crawl-right-02.png",
+    "removed_components": [
+      2,
+      3
+    ],
+    "removed_pixels": 882,
+    "removed_bboxes": [
+      [
+        33,
+        102,
+        73,
+        127
+      ],
+      [
+        84,
+        64,
+        99,
+        80
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-field-doctor-v2/war-unit-field-doctor-v2-crawl-right-03.png",
+    "removed_components": [
+      2,
+      3
+    ],
+    "removed_pixels": 835,
+    "removed_bboxes": [
+      [
+        31,
+        102,
+        66,
+        127
+      ],
+      [
+        84,
+        64,
+        99,
+        80
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-grave-mine-warden-v2/war-unit-grave-mine-warden-v2-crawl-right-01.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 635,
+    "removed_bboxes": [
+      [
+        36,
+        109,
+        69,
+        127
+      ],
+      [
+        94,
+        91,
+        113,
+        105
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-grave-mine-warden-v2/war-unit-grave-mine-warden-v2-crawl-right-02.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 629,
+    "removed_bboxes": [
+      [
+        29,
+        109,
+        63,
+        127
+      ],
+      [
+        97,
+        90,
+        116,
+        104
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-grave-mine-warden-v2/war-unit-grave-mine-warden-v2-crawl-right-03.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 615,
+    "removed_bboxes": [
+      [
+        24,
+        109,
+        56,
+        127
+      ],
+      [
+        90,
+        90,
+        109,
+        104
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-grave-salt-warden-v2/war-unit-grave-salt-warden-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 423,
+    "removed_bboxes": [
+      [
+        48,
+        108,
+        83,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-grave-salt-warden-v2/war-unit-grave-salt-warden-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 403,
+    "removed_bboxes": [
+      [
+        36,
+        109,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-grave-salt-warden-v2/war-unit-grave-salt-warden-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 397,
+    "removed_bboxes": [
+      [
+        29,
+        109,
+        63,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-grave-salt-warden-v2/war-unit-grave-salt-warden-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 383,
+    "removed_bboxes": [
+      [
+        24,
+        109,
+        56,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-grenadier-v2/war-unit-grenadier-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 175,
+    "removed_bboxes": [
+      [
+        61,
+        117,
+        80,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-grenadier-v2/war-unit-grenadier-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 207,
+    "removed_bboxes": [
+      [
+        52,
+        116,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-grenadier-v2/war-unit-grenadier-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 206,
+    "removed_bboxes": [
+      [
+        49,
+        116,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-grenadier-v2/war-unit-grenadier-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 191,
+    "removed_bboxes": [
+      [
+        47,
+        116,
+        66,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-mg-gunner-v2/war-unit-mg-gunner-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 138,
+    "removed_bboxes": [
+      [
+        65,
+        119,
+        84,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-mg-gunner-v2/war-unit-mg-gunner-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 127,
+    "removed_bboxes": [
+      [
+        52,
+        120,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-mg-gunner-v2/war-unit-mg-gunner-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 158,
+    "removed_bboxes": [
+      [
+        49,
+        118,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-mg-gunner-v2/war-unit-mg-gunner-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 172,
+    "removed_bboxes": [
+      [
+        44,
+        117,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 242,
+    "removed_bboxes": [
+      [
+        48,
+        236,
+        76,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 256,
+    "removed_bboxes": [
+      [
+        48,
+        234,
+        75,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 267,
+    "removed_bboxes": [
+      [
+        52,
+        236,
+        82,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 243,
+    "removed_bboxes": [
+      [
+        45,
+        236,
+        71,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-porter-v2/war-unit-porter-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 124,
+    "removed_bboxes": [
+      [
+        55,
+        120,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 262,
+    "removed_bboxes": [
+      [
+        57,
+        114,
+        82,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 212,
+    "removed_bboxes": [
+      [
+        50,
+        116,
+        72,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 214,
+    "removed_bboxes": [
+      [
+        46,
+        116,
+        68,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 210,
+    "removed_bboxes": [
+      [
+        37,
+        116,
+        58,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 240,
+    "removed_bboxes": [
+      [
+        61,
+        239,
+        77,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 188,
+    "removed_bboxes": [
+      [
+        54,
+        242,
+        71,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 153,
+    "removed_bboxes": [
+      [
+        50,
+        244,
+        66,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 228,
+    "removed_bboxes": [
+      [
+        43,
+        240,
+        61,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-shell-runner-v2/war-unit-shell-runner-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 173,
+    "removed_bboxes": [
+      [
+        48,
+        117,
+        68,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-shell-runner-v2/war-unit-shell-runner-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 181,
+    "removed_bboxes": [
+      [
+        54,
+        117,
+        75,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-shell-runner-v2/war-unit-shell-runner-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 157,
+    "removed_bboxes": [
+      [
+        53,
+        118,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-siege-mortar-artificer-v2/war-unit-siege-mortar-artificer-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 104,
+    "removed_bboxes": [
+      [
+        54,
+        121,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-signaller-v2/war-unit-signaller-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 259,
+    "removed_bboxes": [
+      [
+        61,
+        114,
+        85,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-signaller-v2/war-unit-signaller-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 259,
+    "removed_bboxes": [
+      [
+        49,
+        114,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-signaller-v2/war-unit-signaller-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 257,
+    "removed_bboxes": [
+      [
+        47,
+        114,
+        72,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-signaller-v2/war-unit-signaller-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 260,
+    "removed_bboxes": [
+      [
+        38,
+        114,
+        62,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-supply-officer-v2/war-unit-supply-officer-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 240,
+    "removed_bboxes": [
+      [
+        61,
+        239,
+        77,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-supply-officer-v2/war-unit-supply-officer-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 188,
+    "removed_bboxes": [
+      [
+        54,
+        242,
+        71,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-supply-officer-v2/war-unit-supply-officer-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 153,
+    "removed_bboxes": [
+      [
+        50,
+        244,
+        66,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-supply-officer-v2/war-unit-supply-officer-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 228,
+    "removed_bboxes": [
+      [
+        43,
+        240,
+        61,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 472,
+    "removed_bboxes": [
+      [
+        27,
+        108,
+        74,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 489,
+    "removed_bboxes": [
+      [
+        29,
+        107,
+        76,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 306,
+    "removed_bboxes": [
+      [
+        45,
+        111,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-crawl-right-03.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 438,
+    "removed_bboxes": [
+      [
+        42,
+        109,
+        66,
+        127
+      ],
+      [
+        18,
+        121,
+        41,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-trench-mortar-crew-v2/war-unit-trench-mortar-crew-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 104,
+    "removed_bboxes": [
+      [
+        54,
+        121,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-crawl-right-00.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 124,
+    "removed_bboxes": [
+      [
+        55,
+        120,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 175,
+    "removed_bboxes": [
+      [
+        60,
+        117,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 197,
+    "removed_bboxes": [
+      [
+        49,
+        116,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 190,
+    "removed_bboxes": [
+      [
+        46,
+        117,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 194,
+    "removed_bboxes": [
+      [
+        35,
+        117,
+        55,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-wire-layer-v2/war-unit-wire-layer-v2-crawl-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 175,
+    "removed_bboxes": [
+      [
+        60,
+        117,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-wire-layer-v2/war-unit-wire-layer-v2-crawl-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 197,
+    "removed_bboxes": [
+      [
+        49,
+        116,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-wire-layer-v2/war-unit-wire-layer-v2-crawl-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 190,
+    "removed_bboxes": [
+      [
+        46,
+        117,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crawl/war-unit-wire-layer-v2/war-unit-wire-layer-v2-crawl-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 194,
+    "removed_bboxes": [
+      [
+        35,
+        117,
+        55,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 92,
+    "removed_bboxes": [
+      [
+        61,
+        122,
+        80,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 86,
+    "removed_bboxes": [
+      [
+        41,
+        122,
+        59,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 92,
+    "removed_bboxes": [
+      [
+        33,
+        122,
+        52,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 383,
+    "removed_bboxes": [
+      [
+        57,
+        110,
+        84,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 382,
+    "removed_bboxes": [
+      [
+        49,
+        110,
+        77,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 379,
+    "removed_bboxes": [
+      [
+        46,
+        110,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 379,
+    "removed_bboxes": [
+      [
+        38,
+        110,
+        65,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 478,
+    "removed_bboxes": [
+      [
+        60,
+        106,
+        88,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 480,
+    "removed_bboxes": [
+      [
+        46,
+        106,
+        75,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 467,
+    "removed_bboxes": [
+      [
+        34,
+        107,
+        63,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 472,
+    "removed_bboxes": [
+      [
+        27,
+        107,
+        56,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-combat-medic-v2/war-unit-combat-medic-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 200,
+    "removed_bboxes": [
+      [
+        61,
+        117,
+        83,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-combat-medic-v2/war-unit-combat-medic-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 202,
+    "removed_bboxes": [
+      [
+        49,
+        117,
+        70,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-combat-medic-v2/war-unit-combat-medic-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 177,
+    "removed_bboxes": [
+      [
+        43,
+        118,
+        65,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-combat-medic-v2/war-unit-combat-medic-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 183,
+    "removed_bboxes": [
+      [
+        33,
+        118,
+        55,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-echo-runner-v2/war-unit-echo-runner-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 181,
+    "removed_bboxes": [
+      [
+        57,
+        118,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-echo-runner-v2/war-unit-echo-runner-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 180,
+    "removed_bboxes": [
+      [
+        46,
+        118,
+        68,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-echo-runner-v2/war-unit-echo-runner-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 147,
+    "removed_bboxes": [
+      [
+        39,
+        119,
+        60,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-echo-runner-v2/war-unit-echo-runner-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 182,
+    "removed_bboxes": [
+      [
+        31,
+        118,
+        53,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-field-doctor-v2/war-unit-field-doctor-v2-crouch-right-00.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 200,
+    "removed_bboxes": [
+      [
+        61,
+        117,
+        83,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-field-doctor-v2/war-unit-field-doctor-v2-crouch-right-01.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 202,
+    "removed_bboxes": [
+      [
+        49,
+        117,
+        70,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-field-doctor-v2/war-unit-field-doctor-v2-crouch-right-02.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 177,
+    "removed_bboxes": [
+      [
+        43,
+        118,
+        65,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-field-doctor-v2/war-unit-field-doctor-v2-crouch-right-03.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 183,
+    "removed_bboxes": [
+      [
+        33,
+        118,
+        55,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grave-mine-warden-v2/war-unit-grave-mine-warden-v2-crouch-right-00.png",
+    "removed_components": [
+      3
+    ],
+    "removed_pixels": 175,
+    "removed_bboxes": [
+      [
+        63,
+        118,
+        83,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grave-mine-warden-v2/war-unit-grave-mine-warden-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 197,
+    "removed_bboxes": [
+      [
+        52,
+        117,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grave-mine-warden-v2/war-unit-grave-mine-warden-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 199,
+    "removed_bboxes": [
+      [
+        43,
+        117,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grave-mine-warden-v2/war-unit-grave-mine-warden-v2-crouch-right-03.png",
+    "removed_components": [
+      3
+    ],
+    "removed_pixels": 165,
+    "removed_bboxes": [
+      [
+        33,
+        118,
+        54,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grave-salt-warden-v2/war-unit-grave-salt-warden-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 175,
+    "removed_bboxes": [
+      [
+        63,
+        118,
+        83,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grave-salt-warden-v2/war-unit-grave-salt-warden-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 197,
+    "removed_bboxes": [
+      [
+        52,
+        117,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grave-salt-warden-v2/war-unit-grave-salt-warden-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 199,
+    "removed_bboxes": [
+      [
+        43,
+        117,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grave-salt-warden-v2/war-unit-grave-salt-warden-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 165,
+    "removed_bboxes": [
+      [
+        33,
+        118,
+        54,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grenadier-v2/war-unit-grenadier-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 104,
+    "removed_bboxes": [
+      [
+        60,
+        121,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grenadier-v2/war-unit-grenadier-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 107,
+    "removed_bboxes": [
+      [
+        51,
+        121,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grenadier-v2/war-unit-grenadier-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 113,
+    "removed_bboxes": [
+      [
+        48,
+        120,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-grenadier-v2/war-unit-grenadier-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 106,
+    "removed_bboxes": [
+      [
+        43,
+        121,
+        62,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-mg-gunner-v2/war-unit-mg-gunner-v2-crouch-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 83,
+    "removed_bboxes": [
+      [
+        121,
+        76,
+        127,
+        93
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-porter-v2/war-unit-porter-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 383,
+    "removed_bboxes": [
+      [
+        57,
+        110,
+        84,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-porter-v2/war-unit-porter-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 382,
+    "removed_bboxes": [
+      [
+        49,
+        110,
+        77,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-porter-v2/war-unit-porter-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 379,
+    "removed_bboxes": [
+      [
+        46,
+        110,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-porter-v2/war-unit-porter-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 379,
+    "removed_bboxes": [
+      [
+        38,
+        110,
+        65,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 348,
+    "removed_bboxes": [
+      [
+        65,
+        235,
+        86,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 278,
+    "removed_bboxes": [
+      [
+        55,
+        238,
+        73,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 342,
+    "removed_bboxes": [
+      [
+        44,
+        235,
+        65,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 351,
+    "removed_bboxes": [
+      [
+        39,
+        235,
+        59,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-rifleman-v2/war-unit-rifleman-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 198,
+    "removed_bboxes": [
+      [
+        61,
+        118,
+        85,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-rifleman-v2/war-unit-rifleman-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 196,
+    "removed_bboxes": [
+      [
+        53,
+        118,
+        77,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-rifleman-v2/war-unit-rifleman-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 183,
+    "removed_bboxes": [
+      [
+        44,
+        119,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-rifleman-v2/war-unit-rifleman-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 197,
+    "removed_bboxes": [
+      [
+        39,
+        118,
+        63,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-sapper-v2/war-unit-sapper-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 229,
+    "removed_bboxes": [
+      [
+        58,
+        116,
+        82,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-sapper-v2/war-unit-sapper-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 230,
+    "removed_bboxes": [
+      [
+        50,
+        116,
+        74,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-sapper-v2/war-unit-sapper-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 232,
+    "removed_bboxes": [
+      [
+        45,
+        116,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-sapper-v2/war-unit-sapper-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 229,
+    "removed_bboxes": [
+      [
+        30,
+        116,
+        54,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-signaller-v2/war-unit-signaller-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 188,
+    "removed_bboxes": [
+      [
+        62,
+        117,
+        84,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-signaller-v2/war-unit-signaller-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 182,
+    "removed_bboxes": [
+      [
+        51,
+        118,
+        74,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-signaller-v2/war-unit-signaller-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 177,
+    "removed_bboxes": [
+      [
+        49,
+        118,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-signaller-v2/war-unit-signaller-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 207,
+    "removed_bboxes": [
+      [
+        38,
+        116,
+        62,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-supply-officer-v2/war-unit-supply-officer-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 348,
+    "removed_bboxes": [
+      [
+        65,
+        235,
+        86,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-supply-officer-v2/war-unit-supply-officer-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 278,
+    "removed_bboxes": [
+      [
+        55,
+        238,
+        73,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-supply-officer-v2/war-unit-supply-officer-v2-crouch-right-02.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 342,
+    "removed_bboxes": [
+      [
+        44,
+        235,
+        65,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-supply-officer-v2/war-unit-supply-officer-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 351,
+    "removed_bboxes": [
+      [
+        39,
+        235,
+        59,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-crouch-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 92,
+    "removed_bboxes": [
+      [
+        118,
+        74,
+        127,
+        85
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 213,
+    "removed_bboxes": [
+      [
+        53,
+        115,
+        74,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 175,
+    "removed_bboxes": [
+      [
+        42,
+        117,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 187,
+    "removed_bboxes": [
+      [
+        44,
+        117,
+        65,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 197,
+    "removed_bboxes": [
+      [
+        36,
+        116,
+        57,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-wire-layer-v2/war-unit-wire-layer-v2-crouch-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 213,
+    "removed_bboxes": [
+      [
+        53,
+        115,
+        74,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-wire-layer-v2/war-unit-wire-layer-v2-crouch-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 175,
+    "removed_bboxes": [
+      [
+        42,
+        117,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-wire-layer-v2/war-unit-wire-layer-v2-crouch-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 187,
+    "removed_bboxes": [
+      [
+        44,
+        117,
+        65,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Crouch/war-unit-wire-layer-v2/war-unit-wire-layer-v2-crouch-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 197,
+    "removed_bboxes": [
+      [
+        36,
+        116,
+        57,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 278,
+    "removed_bboxes": [
+      [
+        62,
+        114,
+        91,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 253,
+    "removed_bboxes": [
+      [
+        42,
+        115,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 246,
+    "removed_bboxes": [
+      [
+        37,
+        115,
+        65,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 246,
+    "removed_bboxes": [
+      [
+        23,
+        115,
+        51,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 254,
+    "removed_bboxes": [
+      [
+        54,
+        114,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 255,
+    "removed_bboxes": [
+      [
+        46,
+        114,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 253,
+    "removed_bboxes": [
+      [
+        38,
+        114,
+        63,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 254,
+    "removed_bboxes": [
+      [
+        28,
+        114,
+        52,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-move-left-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 125,
+    "removed_bboxes": [
+      [
+        55,
+        0,
+        71,
+        7
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-move-left-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 110,
+    "removed_bboxes": [
+      [
+        72,
+        0,
+        86,
+        7
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-move-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 125,
+    "removed_bboxes": [
+      [
+        45,
+        0,
+        61,
+        7
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-move-left-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 125,
+    "removed_bboxes": [
+      [
+        38,
+        0,
+        54,
+        7
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 179,
+    "removed_bboxes": [
+      [
+        61,
+        245,
+        82,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 176,
+    "removed_bboxes": [
+      [
+        56,
+        245,
+        77,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 176,
+    "removed_bboxes": [
+      [
+        45,
+        245,
+        66,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-artillery-observer-v2/war-unit-artillery-observer-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 180,
+    "removed_bboxes": [
+      [
+        41,
+        245,
+        63,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 170,
+    "removed_bboxes": [
+      [
+        67,
+        247,
+        92,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 149,
+    "removed_bboxes": [
+      [
+        60,
+        248,
+        84,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 171,
+    "removed_bboxes": [
+      [
+        50,
+        247,
+        75,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 157,
+    "removed_bboxes": [
+      [
+        39,
+        247,
+        63,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 132,
+    "removed_bboxes": [
+      [
+        61,
+        119,
+        78,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 145,
+    "removed_bboxes": [
+      [
+        47,
+        118,
+        65,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 149,
+    "removed_bboxes": [
+      [
+        41,
+        118,
+        58,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 173,
+    "removed_bboxes": [
+      [
+        32,
+        117,
+        50,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-combat-medic-v2/war-unit-combat-medic-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 242,
+    "removed_bboxes": [
+      [
+        65,
+        115,
+        90,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-combat-medic-v2/war-unit-combat-medic-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 216,
+    "removed_bboxes": [
+      [
+        54,
+        116,
+        78,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-combat-medic-v2/war-unit-combat-medic-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 210,
+    "removed_bboxes": [
+      [
+        41,
+        116,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-combat-medic-v2/war-unit-combat-medic-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 212,
+    "removed_bboxes": [
+      [
+        28,
+        116,
+        52,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-echo-runner-v2/war-unit-echo-runner-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 349,
+    "removed_bboxes": [
+      [
+        60,
+        110,
+        85,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-echo-runner-v2/war-unit-echo-runner-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 397,
+    "removed_bboxes": [
+      [
+        45,
+        108,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-echo-runner-v2/war-unit-echo-runner-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 354,
+    "removed_bboxes": [
+      [
+        23,
+        109,
+        47,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-chaplain-orderly-v2/war-unit-field-chaplain-orderly-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 163,
+    "removed_bboxes": [
+      [
+        60,
+        118,
+        82,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-chaplain-orderly-v2/war-unit-field-chaplain-orderly-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 185,
+    "removed_bboxes": [
+      [
+        47,
+        119,
+        75,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-chaplain-orderly-v2/war-unit-field-chaplain-orderly-v2-move-right-02.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 186,
+    "removed_bboxes": [
+      [
+        35,
+        119,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-chaplain-orderly-v2/war-unit-field-chaplain-orderly-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 172,
+    "removed_bboxes": [
+      [
+        25,
+        119,
+        53,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-doctor-v2/war-unit-field-doctor-v2-move-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 272,
+    "removed_bboxes": [
+      [
+        103,
+        67,
+        118,
+        83
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-doctor-v2/war-unit-field-doctor-v2-move-right-00.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 242,
+    "removed_bboxes": [
+      [
+        65,
+        115,
+        90,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-doctor-v2/war-unit-field-doctor-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 216,
+    "removed_bboxes": [
+      [
+        54,
+        116,
+        78,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-doctor-v2/war-unit-field-doctor-v2-move-right-02.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 210,
+    "removed_bboxes": [
+      [
+        41,
+        116,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-doctor-v2/war-unit-field-doctor-v2-move-right-03.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 212,
+    "removed_bboxes": [
+      [
+        28,
+        116,
+        52,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-engineer-v2/war-unit-field-engineer-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 257,
+    "removed_bboxes": [
+      [
+        60,
+        112,
+        80,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-engineer-v2/war-unit-field-engineer-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 253,
+    "removed_bboxes": [
+      [
+        55,
+        112,
+        74,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-engineer-v2/war-unit-field-engineer-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 253,
+    "removed_bboxes": [
+      [
+        48,
+        112,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-field-engineer-v2/war-unit-field-engineer-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 252,
+    "removed_bboxes": [
+      [
+        39,
+        112,
+        58,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-grenadier-v2/war-unit-grenadier-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 110,
+    "removed_bboxes": [
+      [
+        61,
+        120,
+        78,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-grenadier-v2/war-unit-grenadier-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 126,
+    "removed_bboxes": [
+      [
+        54,
+        119,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-grenadier-v2/war-unit-grenadier-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 125,
+    "removed_bboxes": [
+      [
+        49,
+        119,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-grenadier-v2/war-unit-grenadier-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 131,
+    "removed_bboxes": [
+      [
+        42,
+        119,
+        60,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 982,
+    "removed_bboxes": [
+      [
+        34,
+        217,
+        76,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 982,
+    "removed_bboxes": [
+      [
+        32,
+        218,
+        74,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 987,
+    "removed_bboxes": [
+      [
+        28,
+        217,
+        70,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 986,
+    "removed_bboxes": [
+      [
+        34,
+        217,
+        76,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-porter-v2/war-unit-porter-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 254,
+    "removed_bboxes": [
+      [
+        54,
+        114,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-porter-v2/war-unit-porter-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 255,
+    "removed_bboxes": [
+      [
+        46,
+        114,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-porter-v2/war-unit-porter-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 253,
+    "removed_bboxes": [
+      [
+        38,
+        114,
+        63,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-porter-v2/war-unit-porter-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 254,
+    "removed_bboxes": [
+      [
+        28,
+        114,
+        52,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 258,
+    "removed_bboxes": [
+      [
+        65,
+        112,
+        85,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 251,
+    "removed_bboxes": [
+      [
+        53,
+        112,
+        74,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 253,
+    "removed_bboxes": [
+      [
+        41,
+        112,
+        61,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 251,
+    "removed_bboxes": [
+      [
+        29,
+        112,
+        49,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-move-left-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 400,
+    "removed_bboxes": [
+      [
+        70,
+        231,
+        91,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-move-left-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 383,
+    "removed_bboxes": [
+      [
+        55,
+        232,
+        76,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-move-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 366,
+    "removed_bboxes": [
+      [
+        50,
+        233,
+        71,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-move-left-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 383,
+    "removed_bboxes": [
+      [
+        38,
+        232,
+        59,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 1809,
+    "removed_bboxes": [
+      [
+        57,
+        184,
+        95,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 1822,
+    "removed_bboxes": [
+      [
+        43,
+        184,
+        81,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 1715,
+    "removed_bboxes": [
+      [
+        34,
+        187,
+        72,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 1708,
+    "removed_bboxes": [
+      [
+        24,
+        187,
+        62,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-rifleman-v2/war-unit-rifleman-v2-move-left-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 222,
+    "removed_bboxes": [
+      [
+        68,
+        116,
+        93,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-rifleman-v2/war-unit-rifleman-v2-move-left-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 210,
+    "removed_bboxes": [
+      [
+        54,
+        117,
+        77,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-rifleman-v2/war-unit-rifleman-v2-move-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 222,
+    "removed_bboxes": [
+      [
+        44,
+        116,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-rifleman-v2/war-unit-rifleman-v2-move-left-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 205,
+    "removed_bboxes": [
+      [
+        30,
+        117,
+        53,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-rifleman-v2/war-unit-rifleman-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 429,
+    "removed_bboxes": [
+      [
+        64,
+        108,
+        91,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-rifleman-v2/war-unit-rifleman-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 445,
+    "removed_bboxes": [
+      [
+        52,
+        107,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-rifleman-v2/war-unit-rifleman-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 425,
+    "removed_bboxes": [
+      [
+        40,
+        108,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-rifleman-v2/war-unit-rifleman-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 404,
+    "removed_bboxes": [
+      [
+        27,
+        109,
+        54,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-sapper-v2/war-unit-sapper-v2-move-left-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 193,
+    "removed_bboxes": [
+      [
+        66,
+        117,
+        89,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-sapper-v2/war-unit-sapper-v2-move-left-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 161,
+    "removed_bboxes": [
+      [
+        52,
+        118,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-sapper-v2/war-unit-sapper-v2-move-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 130,
+    "removed_bboxes": [
+      [
+        53,
+        119,
+        70,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-sapper-v2/war-unit-sapper-v2-move-left-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 104,
+    "removed_bboxes": [
+      [
+        44,
+        121,
+        61,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-sapper-v2/war-unit-sapper-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 756,
+    "removed_bboxes": [
+      [
+        56,
+        98,
+        94,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-sapper-v2/war-unit-sapper-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 788,
+    "removed_bboxes": [
+      [
+        42,
+        97,
+        80,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-sapper-v2/war-unit-sapper-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 695,
+    "removed_bboxes": [
+      [
+        39,
+        99,
+        75,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-sapper-v2/war-unit-sapper-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 626,
+    "removed_bboxes": [
+      [
+        31,
+        101,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-scout-v2/war-unit-scout-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 86,
+    "removed_bboxes": [
+      [
+        65,
+        122,
+        83,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-shell-runner-v2/war-unit-shell-runner-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 143,
+    "removed_bboxes": [
+      [
+        66,
+        119,
+        85,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-shell-runner-v2/war-unit-shell-runner-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 113,
+    "removed_bboxes": [
+      [
+        58,
+        121,
+        77,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-shell-runner-v2/war-unit-shell-runner-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 144,
+    "removed_bboxes": [
+      [
+        48,
+        119,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-shell-runner-v2/war-unit-shell-runner-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 168,
+    "removed_bboxes": [
+      [
+        37,
+        118,
+        57,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-signaller-v2/war-unit-signaller-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 278,
+    "removed_bboxes": [
+      [
+        60,
+        112,
+        81,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-signaller-v2/war-unit-signaller-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 268,
+    "removed_bboxes": [
+      [
+        54,
+        113,
+        76,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-signaller-v2/war-unit-signaller-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 294,
+    "removed_bboxes": [
+      [
+        50,
+        111,
+        72,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-signaller-v2/war-unit-signaller-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 269,
+    "removed_bboxes": [
+      [
+        41,
+        112,
+        63,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-stretcher-bearer-v2/war-unit-stretcher-bearer-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 163,
+    "removed_bboxes": [
+      [
+        60,
+        118,
+        82,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-stretcher-bearer-v2/war-unit-stretcher-bearer-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 185,
+    "removed_bboxes": [
+      [
+        47,
+        119,
+        75,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-stretcher-bearer-v2/war-unit-stretcher-bearer-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 186,
+    "removed_bboxes": [
+      [
+        35,
+        119,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-stretcher-bearer-v2/war-unit-stretcher-bearer-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 172,
+    "removed_bboxes": [
+      [
+        25,
+        119,
+        53,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-supply-officer-v2/war-unit-supply-officer-v2-move-left-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 400,
+    "removed_bboxes": [
+      [
+        70,
+        231,
+        91,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-supply-officer-v2/war-unit-supply-officer-v2-move-left-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 383,
+    "removed_bboxes": [
+      [
+        55,
+        232,
+        76,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-supply-officer-v2/war-unit-supply-officer-v2-move-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 366,
+    "removed_bboxes": [
+      [
+        50,
+        233,
+        71,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-supply-officer-v2/war-unit-supply-officer-v2-move-left-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 383,
+    "removed_bboxes": [
+      [
+        38,
+        232,
+        59,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-supply-officer-v2/war-unit-supply-officer-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 1809,
+    "removed_bboxes": [
+      [
+        57,
+        184,
+        95,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-supply-officer-v2/war-unit-supply-officer-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 1822,
+    "removed_bboxes": [
+      [
+        43,
+        184,
+        81,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-supply-officer-v2/war-unit-supply-officer-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 1715,
+    "removed_bboxes": [
+      [
+        34,
+        187,
+        72,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-supply-officer-v2/war-unit-supply-officer-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 1708,
+    "removed_bboxes": [
+      [
+        24,
+        187,
+        62,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 156,
+    "removed_bboxes": [
+      [
+        61,
+        117,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 128,
+    "removed_bboxes": [
+      [
+        51,
+        119,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 123,
+    "removed_bboxes": [
+      [
+        44,
+        119,
+        61,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 131,
+    "removed_bboxes": [
+      [
+        39,
+        119,
+        57,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-move-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 254,
+    "removed_bboxes": [
+      [
+        54,
+        114,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-move-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 255,
+    "removed_bboxes": [
+      [
+        46,
+        114,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-move-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 253,
+    "removed_bboxes": [
+      [
+        38,
+        114,
+        63,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Move/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-move-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 254,
+    "removed_bboxes": [
+      [
+        28,
+        114,
+        52,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-primary-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 462,
+    "removed_bboxes": [
+      [
+        107,
+        61,
+        126,
+        87
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-primary-right-00.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 178,
+    "removed_bboxes": [
+      [
+        61,
+        117,
+        81,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-primary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 169,
+    "removed_bboxes": [
+      [
+        51,
+        117,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-primary-right-02.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 145,
+    "removed_bboxes": [
+      [
+        44,
+        119,
+        62,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-primary-right-03.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 163,
+    "removed_bboxes": [
+      [
+        35,
+        118,
+        54,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-primary-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 232,
+    "removed_bboxes": [
+      [
+        110,
+        48,
+        127,
+        63
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-primary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 170,
+    "removed_bboxes": [
+      [
+        63,
+        118,
+        84,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-primary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 154,
+    "removed_bboxes": [
+      [
+        50,
+        119,
+        70,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-primary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 161,
+    "removed_bboxes": [
+      [
+        41,
+        118,
+        61,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-primary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 154,
+    "removed_bboxes": [
+      [
+        33,
+        119,
+        53,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-combat-medic-v2/war-unit-combat-medic-v2-primary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 291,
+    "removed_bboxes": [
+      [
+        65,
+        113,
+        90,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-combat-medic-v2/war-unit-combat-medic-v2-primary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 297,
+    "removed_bboxes": [
+      [
+        51,
+        113,
+        76,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-combat-medic-v2/war-unit-combat-medic-v2-primary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 296,
+    "removed_bboxes": [
+      [
+        44,
+        113,
+        70,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-combat-medic-v2/war-unit-combat-medic-v2-primary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 291,
+    "removed_bboxes": [
+      [
+        35,
+        113,
+        60,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-field-chaplain-orderly-v2/war-unit-field-chaplain-orderly-v2-primary-left-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 270,
+    "removed_bboxes": [
+      [
+        108,
+        58,
+        122,
+        75
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-field-chaplain-orderly-v2/war-unit-field-chaplain-orderly-v2-primary-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 270,
+    "removed_bboxes": [
+      [
+        102,
+        58,
+        116,
+        75
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-field-doctor-v2/war-unit-field-doctor-v2-primary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 291,
+    "removed_bboxes": [
+      [
+        65,
+        113,
+        90,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-field-doctor-v2/war-unit-field-doctor-v2-primary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 297,
+    "removed_bboxes": [
+      [
+        51,
+        113,
+        76,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-field-doctor-v2/war-unit-field-doctor-v2-primary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 296,
+    "removed_bboxes": [
+      [
+        44,
+        113,
+        70,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-field-doctor-v2/war-unit-field-doctor-v2-primary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 291,
+    "removed_bboxes": [
+      [
+        35,
+        113,
+        60,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-field-engineer-v2/war-unit-field-engineer-v2-primary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 87,
+    "removed_bboxes": [
+      [
+        53,
+        121,
+        73,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-field-engineer-v2/war-unit-field-engineer-v2-primary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 82,
+    "removed_bboxes": [
+      [
+        48,
+        121,
+        67,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-grave-mine-warden-v2/war-unit-grave-mine-warden-v2-primary-left-01.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 186,
+    "removed_bboxes": [
+      [
+        113,
+        58,
+        127,
+        93
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-grave-mine-warden-v2/war-unit-grave-mine-warden-v2-primary-left-02.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 418,
+    "removed_bboxes": [
+      [
+        97,
+        80,
+        116,
+        94
+      ],
+      [
+        111,
+        58,
+        125,
+        93
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-porter-v2/war-unit-porter-v2-primary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 178,
+    "removed_bboxes": [
+      [
+        61,
+        117,
+        81,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-porter-v2/war-unit-porter-v2-primary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 169,
+    "removed_bboxes": [
+      [
+        51,
+        117,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-porter-v2/war-unit-porter-v2-primary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 145,
+    "removed_bboxes": [
+      [
+        44,
+        119,
+        62,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-porter-v2/war-unit-porter-v2-primary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 163,
+    "removed_bboxes": [
+      [
+        35,
+        118,
+        54,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-primary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 287,
+    "removed_bboxes": [
+      [
+        51,
+        112,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-primary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 212,
+    "removed_bboxes": [
+      [
+        53,
+        115,
+        74,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-primary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 249,
+    "removed_bboxes": [
+      [
+        42,
+        114,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-primary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 256,
+    "removed_bboxes": [
+      [
+        33,
+        113,
+        55,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-rifleman-v2/war-unit-rifleman-v2-primary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 103,
+    "removed_bboxes": [
+      [
+        0,
+        26,
+        12,
+        43
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-sapper-v2/war-unit-sapper-v2-primary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 347,
+    "removed_bboxes": [
+      [
+        57,
+        112,
+        91,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-sapper-v2/war-unit-sapper-v2-primary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 374,
+    "removed_bboxes": [
+      [
+        39,
+        112,
+        76,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-sapper-v2/war-unit-sapper-v2-primary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 351,
+    "removed_bboxes": [
+      [
+        37,
+        112,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-sapper-v2/war-unit-sapper-v2-primary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 408,
+    "removed_bboxes": [
+      [
+        25,
+        112,
+        70,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-shell-runner-v2/war-unit-shell-runner-v2-primary-right-00.png",
+    "removed_components": [
+      1,
+      2,
+      3
+    ],
+    "removed_pixels": 492,
+    "removed_bboxes": [
+      [
+        59,
+        112,
+        80,
+        127
+      ],
+      [
+        43,
+        116,
+        59,
+        127
+      ],
+      [
+        83,
+        117,
+        90,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-shell-runner-v2/war-unit-shell-runner-v2-primary-right-01.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 556,
+    "removed_bboxes": [
+      [
+        58,
+        112,
+        88,
+        127
+      ],
+      [
+        23,
+        116,
+        53,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-shell-runner-v2/war-unit-shell-runner-v2-primary-right-02.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 491,
+    "removed_bboxes": [
+      [
+        54,
+        112,
+        85,
+        127
+      ],
+      [
+        38,
+        116,
+        53,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-shell-runner-v2/war-unit-shell-runner-v2-primary-right-03.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 454,
+    "removed_bboxes": [
+      [
+        49,
+        112,
+        70,
+        127
+      ],
+      [
+        14,
+        116,
+        43,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-primary-left-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 81,
+    "removed_bboxes": [
+      [
+        86,
+        0,
+        99,
+        6
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-primary-left-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 82,
+    "removed_bboxes": [
+      [
+        76,
+        0,
+        89,
+        6
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-primary-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 87,
+    "removed_bboxes": [
+      [
+        73,
+        0,
+        86,
+        6
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-trench-marksman-v2/war-unit-trench-marksman-v2-primary-left-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 87,
+    "removed_bboxes": [
+      [
+        59,
+        0,
+        71,
+        6
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-primary-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 466,
+    "removed_bboxes": [
+      [
+        105,
+        64,
+        123,
+        89
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-primary-right-00.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 178,
+    "removed_bboxes": [
+      [
+        61,
+        117,
+        81,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-primary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 169,
+    "removed_bboxes": [
+      [
+        51,
+        117,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-primary-right-02.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 145,
+    "removed_bboxes": [
+      [
+        44,
+        119,
+        62,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Primary/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-primary-right-03.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 163,
+    "removed_bboxes": [
+      [
+        35,
+        118,
+        54,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-secondary-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 107,
+    "removed_bboxes": [
+      [
+        123,
+        48,
+        127,
+        79
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 277,
+    "removed_bboxes": [
+      [
+        60,
+        112,
+        82,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 236,
+    "removed_bboxes": [
+      [
+        46,
+        114,
+        68,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 226,
+    "removed_bboxes": [
+      [
+        46,
+        115,
+        68,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-aether-lamp-scout-v2/war-unit-aether-lamp-scout-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 244,
+    "removed_bboxes": [
+      [
+        30,
+        114,
+        52,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 230,
+    "removed_bboxes": [
+      [
+        61,
+        115,
+        84,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 366,
+    "removed_bboxes": [
+      [
+        42,
+        116,
+        88,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-secondary-right-02.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 188,
+    "removed_bboxes": [
+      [
+        37,
+        117,
+        57,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-ammo-runner-v2/war-unit-ammo-runner-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 146,
+    "removed_bboxes": [
+      [
+        33,
+        119,
+        52,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 586,
+    "removed_bboxes": [
+      [
+        42,
+        233,
+        75,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 556,
+    "removed_bboxes": [
+      [
+        38,
+        234,
+        71,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 627,
+    "removed_bboxes": [
+      [
+        42,
+        231,
+        75,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-bound-shell-cantor-v2/war-unit-bound-shell-cantor-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 620,
+    "removed_bboxes": [
+      [
+        42,
+        231,
+        75,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 287,
+    "removed_bboxes": [
+      [
+        50,
+        113,
+        75,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 293,
+    "removed_bboxes": [
+      [
+        43,
+        113,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 301,
+    "removed_bboxes": [
+      [
+        36,
+        113,
+        63,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-clockwork-trenchhand-v2/war-unit-clockwork-trenchhand-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 241,
+    "removed_bboxes": [
+      [
+        35,
+        115,
+        58,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-combat-medic-v2/war-unit-combat-medic-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 152,
+    "removed_bboxes": [
+      [
+        62,
+        119,
+        82,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-combat-medic-v2/war-unit-combat-medic-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 135,
+    "removed_bboxes": [
+      [
+        52,
+        119,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-combat-medic-v2/war-unit-combat-medic-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 141,
+    "removed_bboxes": [
+      [
+        44,
+        119,
+        63,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-combat-medic-v2/war-unit-combat-medic-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 142,
+    "removed_bboxes": [
+      [
+        36,
+        119,
+        55,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-echo-runner-v2/war-unit-echo-runner-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 176,
+    "removed_bboxes": [
+      [
+        38,
+        114,
+        66,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-field-chaplain-orderly-v2/war-unit-field-chaplain-orderly-v2-secondary-down-02.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 426,
+    "removed_bboxes": [
+      [
+        103,
+        77,
+        117,
+        94
+      ],
+      [
+        113,
+        103,
+        127,
+        121
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-field-chaplain-orderly-v2/war-unit-field-chaplain-orderly-v2-secondary-left-01.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 394,
+    "removed_bboxes": [
+      [
+        103,
+        63,
+        117,
+        80
+      ],
+      [
+        115,
+        92,
+        127,
+        106
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-field-chaplain-orderly-v2/war-unit-field-chaplain-orderly-v2-secondary-left-02.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 723,
+    "removed_bboxes": [
+      [
+        97,
+        96,
+        127,
+        114
+      ],
+      [
+        102,
+        71,
+        116,
+        88
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-field-chaplain-orderly-v2/war-unit-field-chaplain-orderly-v2-secondary-up-02.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 631,
+    "removed_bboxes": [
+      [
+        102,
+        59,
+        127,
+        77
+      ],
+      [
+        105,
+        36,
+        119,
+        53
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-field-doctor-v2/war-unit-field-doctor-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 152,
+    "removed_bboxes": [
+      [
+        62,
+        119,
+        82,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-field-doctor-v2/war-unit-field-doctor-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 135,
+    "removed_bboxes": [
+      [
+        52,
+        119,
+        71,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-field-doctor-v2/war-unit-field-doctor-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 141,
+    "removed_bboxes": [
+      [
+        44,
+        119,
+        63,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-field-doctor-v2/war-unit-field-doctor-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 142,
+    "removed_bboxes": [
+      [
+        36,
+        119,
+        55,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-grave-mine-warden-v2/war-unit-grave-mine-warden-v2-secondary-left-02.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 186,
+    "removed_bboxes": [
+      [
+        112,
+        57,
+        126,
+        92
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-grave-salt-warden-v2/war-unit-grave-salt-warden-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 239,
+    "removed_bboxes": [
+      [
+        60,
+        114,
+        83,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-secondary-left-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 162,
+    "removed_bboxes": [
+      [
+        69,
+        230,
+        83,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 949,
+    "removed_bboxes": [
+      [
+        50,
+        217,
+        91,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-secondary-right-01.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 846,
+    "removed_bboxes": [
+      [
+        45,
+        230,
+        80,
+        247
+      ],
+      [
+        87,
+        207,
+        100,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 763,
+    "removed_bboxes": [
+      [
+        21,
+        222,
+        59,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-patrol-corporal-v2/war-unit-patrol-corporal-v2-secondary-right-03.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 1270,
+    "removed_bboxes": [
+      [
+        39,
+        222,
+        76,
+        247
+      ],
+      [
+        82,
+        217,
+        102,
+        247
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-porter-v2/war-unit-porter-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 230,
+    "removed_bboxes": [
+      [
+        61,
+        115,
+        84,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-porter-v2/war-unit-porter-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 366,
+    "removed_bboxes": [
+      [
+        42,
+        116,
+        88,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-porter-v2/war-unit-porter-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 188,
+    "removed_bboxes": [
+      [
+        37,
+        117,
+        57,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-porter-v2/war-unit-porter-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 146,
+    "removed_bboxes": [
+      [
+        33,
+        119,
+        52,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-secondary-left-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 405,
+    "removed_bboxes": [
+      [
+        95,
+        69,
+        127,
+        89
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-pressure-projector-v2/war-unit-pressure-projector-v2-secondary-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 706,
+    "removed_bboxes": [
+      [
+        78,
+        68,
+        127,
+        96
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 557,
+    "removed_bboxes": [
+      [
+        63,
+        220,
+        85,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-secondary-right-01.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 717,
+    "removed_bboxes": [
+      [
+        58,
+        221,
+        80,
+        255
+      ],
+      [
+        88,
+        243,
+        110,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-secondary-right-02.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 662,
+    "removed_bboxes": [
+      [
+        49,
+        222,
+        70,
+        255
+      ],
+      [
+        83,
+        241,
+        93,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-quartermaster-runner-v2/war-unit-quartermaster-runner-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 563,
+    "removed_bboxes": [
+      [
+        37,
+        221,
+        59,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-rifleman-v2/war-unit-rifleman-v2-secondary-down-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 140,
+    "removed_bboxes": [
+      [
+        109,
+        68,
+        123,
+        79
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-rifleman-v2/war-unit-rifleman-v2-secondary-left-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 132,
+    "removed_bboxes": [
+      [
+        114,
+        42,
+        127,
+        53
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-rifleman-v2/war-unit-rifleman-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 161,
+    "removed_bboxes": [
+      [
+        63,
+        119,
+        85,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-rifleman-v2/war-unit-rifleman-v2-secondary-right-01.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 330,
+    "removed_bboxes": [
+      [
+        50,
+        118,
+        72,
+        127
+      ],
+      [
+        81,
+        115,
+        95,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-rifleman-v2/war-unit-rifleman-v2-secondary-right-02.png",
+    "removed_components": [
+      1,
+      3
+    ],
+    "removed_pixels": 256,
+    "removed_bboxes": [
+      [
+        39,
+        120,
+        61,
+        127
+      ],
+      [
+        97,
+        110,
+        108,
+        121
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-scout-v2/war-unit-scout-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 217,
+    "removed_bboxes": [
+      [
+        58,
+        117,
+        84,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-scout-v2/war-unit-scout-v2-secondary-right-01.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 409,
+    "removed_bboxes": [
+      [
+        51,
+        116,
+        74,
+        127
+      ],
+      [
+        77,
+        109,
+        90,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-scout-v2/war-unit-scout-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 187,
+    "removed_bboxes": [
+      [
+        44,
+        118,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-scout-v2/war-unit-scout-v2-secondary-right-03.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 315,
+    "removed_bboxes": [
+      [
+        60,
+        112,
+        73,
+        127
+      ],
+      [
+        35,
+        118,
+        54,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-senior-surgeon-v2/war-unit-senior-surgeon-v2-secondary-left-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 83,
+    "removed_bboxes": [
+      [
+        71,
+        245,
+        85,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-senior-surgeon-v2/war-unit-senior-surgeon-v2-secondary-right-00.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 167,
+    "removed_bboxes": [
+      [
+        56,
+        247,
+        80,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-senior-surgeon-v2/war-unit-senior-surgeon-v2-secondary-right-01.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 169,
+    "removed_bboxes": [
+      [
+        48,
+        247,
+        72,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-senior-surgeon-v2/war-unit-senior-surgeon-v2-secondary-right-02.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 174,
+    "removed_bboxes": [
+      [
+        41,
+        247,
+        64,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-senior-surgeon-v2/war-unit-senior-surgeon-v2-secondary-right-03.png",
+    "removed_components": [
+      2,
+      3
+    ],
+    "removed_pixels": 560,
+    "removed_bboxes": [
+      [
+        70,
+        218,
+        87,
+        255
+      ],
+      [
+        35,
+        247,
+        58,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-shell-runner-v2/war-unit-shell-runner-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 102,
+    "removed_bboxes": [
+      [
+        50,
+        121,
+        68,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-shell-runner-v2/war-unit-shell-runner-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 171,
+    "removed_bboxes": [
+      [
+        44,
+        118,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-shell-runner-v2/war-unit-shell-runner-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 214,
+    "removed_bboxes": [
+      [
+        21,
+        116,
+        43,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-siege-mortar-artificer-v2/war-unit-siege-mortar-artificer-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 117,
+    "removed_bboxes": [
+      [
+        57,
+        120,
+        76,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-siege-mortar-artificer-v2/war-unit-siege-mortar-artificer-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 128,
+    "removed_bboxes": [
+      [
+        44,
+        120,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-siege-mortar-artificer-v2/war-unit-siege-mortar-artificer-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 86,
+    "removed_bboxes": [
+      [
+        38,
+        122,
+        56,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-signaller-v2/war-unit-signaller-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 153,
+    "removed_bboxes": [
+      [
+        61,
+        118,
+        79,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-signaller-v2/war-unit-signaller-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 169,
+    "removed_bboxes": [
+      [
+        52,
+        117,
+        72,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-signaller-v2/war-unit-signaller-v2-secondary-right-02.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 130,
+    "removed_bboxes": [
+      [
+        44,
+        119,
+        62,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-signaller-v2/war-unit-signaller-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 146,
+    "removed_bboxes": [
+      [
+        37,
+        118,
+        54,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-stretcher-bearer-v2/war-unit-stretcher-bearer-v2-secondary-down-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 156,
+    "removed_bboxes": [
+      [
+        113,
+        103,
+        127,
+        121
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-stretcher-bearer-v2/war-unit-stretcher-bearer-v2-secondary-left-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 124,
+    "removed_bboxes": [
+      [
+        115,
+        92,
+        127,
+        106
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-stretcher-bearer-v2/war-unit-stretcher-bearer-v2-secondary-left-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 453,
+    "removed_bboxes": [
+      [
+        97,
+        96,
+        127,
+        114
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-stretcher-bearer-v2/war-unit-stretcher-bearer-v2-secondary-up-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 361,
+    "removed_bboxes": [
+      [
+        102,
+        59,
+        127,
+        77
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-supply-officer-v2/war-unit-supply-officer-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 557,
+    "removed_bboxes": [
+      [
+        63,
+        220,
+        85,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-supply-officer-v2/war-unit-supply-officer-v2-secondary-right-01.png",
+    "removed_components": [
+      1,
+      3
+    ],
+    "removed_pixels": 717,
+    "removed_bboxes": [
+      [
+        58,
+        221,
+        80,
+        255
+      ],
+      [
+        88,
+        243,
+        110,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-supply-officer-v2/war-unit-supply-officer-v2-secondary-right-02.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 662,
+    "removed_bboxes": [
+      [
+        49,
+        222,
+        70,
+        255
+      ],
+      [
+        83,
+        241,
+        93,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-supply-officer-v2/war-unit-supply-officer-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 563,
+    "removed_bboxes": [
+      [
+        37,
+        221,
+        59,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-lieutenant-v2/war-unit-trench-lieutenant-v2-secondary-left-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 83,
+    "removed_bboxes": [
+      [
+        71,
+        245,
+        85,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-lieutenant-v2/war-unit-trench-lieutenant-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 167,
+    "removed_bboxes": [
+      [
+        56,
+        247,
+        80,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-lieutenant-v2/war-unit-trench-lieutenant-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 169,
+    "removed_bboxes": [
+      [
+        48,
+        247,
+        72,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-lieutenant-v2/war-unit-trench-lieutenant-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 174,
+    "removed_bboxes": [
+      [
+        41,
+        247,
+        64,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-lieutenant-v2/war-unit-trench-lieutenant-v2-secondary-right-03.png",
+    "removed_components": [
+      1,
+      2
+    ],
+    "removed_pixels": 560,
+    "removed_bboxes": [
+      [
+        70,
+        218,
+        87,
+        255
+      ],
+      [
+        35,
+        247,
+        58,
+        255
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-mortar-crew-v2/war-unit-trench-mortar-crew-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 117,
+    "removed_bboxes": [
+      [
+        57,
+        120,
+        76,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-mortar-crew-v2/war-unit-trench-mortar-crew-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 128,
+    "removed_bboxes": [
+      [
+        44,
+        120,
+        64,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-mortar-crew-v2/war-unit-trench-mortar-crew-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 86,
+    "removed_bboxes": [
+      [
+        38,
+        122,
+        56,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 230,
+    "removed_bboxes": [
+      [
+        61,
+        115,
+        84,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 366,
+    "removed_bboxes": [
+      [
+        42,
+        116,
+        88,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-secondary-right-02.png",
+    "removed_components": [
+      2
+    ],
+    "removed_pixels": 188,
+    "removed_bboxes": [
+      [
+        37,
+        117,
+        57,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-trench-sanitation-orderly-v2/war-unit-trench-sanitation-orderly-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 146,
+    "removed_bboxes": [
+      [
+        33,
+        119,
+        52,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-secondary-right-00.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 197,
+    "removed_bboxes": [
+      [
+        62,
+        116,
+        81,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-secondary-right-01.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 200,
+    "removed_bboxes": [
+      [
+        49,
+        116,
+        69,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-secondary-right-02.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 203,
+    "removed_bboxes": [
+      [
+        40,
+        116,
+        62,
+        127
+      ]
+    ]
+  },
+  {
+    "path": "Assets/Art/War/Units/V2/Cutouts/Secondary/war-unit-wire-cutter-v2/war-unit-wire-cutter-v2-secondary-right-03.png",
+    "removed_components": [
+      1
+    ],
+    "removed_pixels": 203,
+    "removed_bboxes": [
+      [
+        31,
+        116,
+        52,
+        127
+      ]
+    ]
+  }
+]

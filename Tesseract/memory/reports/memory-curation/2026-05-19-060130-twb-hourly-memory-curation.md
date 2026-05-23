@@ -1,0 +1,29 @@
+# Memory Curation Run Report
+
+- run time: 2026-05-19T06:01:30.9365568Z
+- lock status: acquired cleanly with exclusive create semantics
+- reports reviewed:
+  - `memory/short-term/2026-05-18-twb-trenchworks-extended-hardpoint-node-plan.md`
+  - `memory/short-term/2026-05-18-shared-platform-pet-catalog-inventory-report.md`
+  - `memory/short-term/2026-05-18-twb-global-achievements-framework-child-report.md`
+  - `memory/short-term/2026-05-18-glassroot-garden-worker-report.md`
+  - `memory/short-term/2026-05-18-twb-trenchworks-worker-report.md`
+- items promoted: none
+- items kept only in reports:
+  - Shared-platform implementation details that are already captured in `memory/wiki/shared-platform/pet-catalog-inventory.md` and `memory/wiki/shared-platform/global-achievements.md`
+  - Garden workbench presentation and notice-board catalog details already captured in `memory/wiki/world-keys/the-garden/overview.md` and `memory/wiki/world-keys/the-garden/testing.md`
+  - Trenchworks hidden paired front and hardpoint-pad notes already captured in `memory/wiki/twb-trenchworks/architecture.md` and `memory/wiki/twb-trenchworks/open-questions.md`
+- items rejected or ignored:
+  - File-by-file implementation inventories
+  - Screenshot and build minutiae
+  - Temporary plan wording already duplicated in permanent memory
+  - Exact route and migration command details that do not add durable value
+- files changed:
+  - `C:\Users\yrred\.codex\automations\twb-hourly-memory-curation\memory.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\reports\memory-curation\2026-05-19-060130-twb-hourly-memory-curation.md`
+- open questions/conflicts:
+  - Trenchworks still needs a final decision on 4x4 versus 8x8 hardpoint pads
+  - Hardpoint pad count per sector remains open
+  - Garden token earning and export rules are still undefined
+- next recommended gate:
+  - Run the Garden mobile/touch review at phone-sized viewports, then continue Trenchworks Gate 1 implementation when the lane is clear

@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "-path:memory/short-term -path:memory/reports -path:memory/raw -path:memory/briefs -path:templates",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.0885416666666667,
+  "repelStrength": 7.5,
+  "linkStrength": 0.791666666666667,
+  "linkDistance": 500,
+  "scale": 0.1846232622585795,
+  "close": true
+}

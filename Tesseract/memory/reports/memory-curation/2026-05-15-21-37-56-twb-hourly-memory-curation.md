@@ -1,0 +1,58 @@
+# TWB Hourly Memory Curation Run - 2026-05-15 21:37 UTC
+
+- lock_status: acquired exclusive create-new singleton lock at `memory\.automation-locks\twb-memory-curation.lock.json`
+- lock_conflict: none
+- reports_reviewed:
+  - `memory/short-term/2026-05-15-twb-unity-account-persistence-safety-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-cloud-save-guardrail-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-account-inventory-adoption-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-companion-projection-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-companion-detail-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-companion-eligibility-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-companion-freshness-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-companion-conflict-model-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-platform-pre-mutation-gate-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-card-summary-confirm-button-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-card-summary-confirm-slot-fix-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-card-summary-salvage-placement-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-card-confirm-wave-icons-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-worldmap-streaming-and-peggy-asset-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-icon-asset-audit-report.md`
+  - `memory/short-term/2026-05-15-twb-creature-spritesheet-auto-ma-08.md`
+  - `memory/short-term/2026-05-15-twb-creature-spritesheet-auto-ma-09.md`
+  - `memory/short-term/2026-05-15-twb-creature-spritesheet-auto-ma-10.md`
+  - `memory/short-term/2026-05-15-twb-creature-spritesheet-auto-ma-11.md`
+  - `memory/short-term/2026-05-13-glassroot-garden-asset-conversion-restart-report.md`
+- items_promoted:
+  - Unity-side account attachment remains a read-only runtime projection. Linked sessions may cache shared companions, exported stacks, and account-selected starter pets into UI/runtime state, but cloud-save loads over an active local profile now require confirmation plus a local backup before replacement.
+  - Peggy's incorrect `1024` Unity resource was removed, `util-peggy` now anchors both sprite and key art, and the icon audit confirms the live material/catalyst/shared skill/modifier/currency families are covered while six special starter skill icons remain as the narrow art gap.
+  - The sprite-sheet queue advanced through `MA-11` and the next pending triad is `MA-12` / `magic` / `urban_commercial`.
+  - Stale `MA-08` next-gate state was superseded by the newer `MA-12` queue position.
+- items_kept_only_in_reports:
+  - Exact UI wiring, `_archivePendingDungeonSlot` handling, and other card-summary confirm-path mechanics stayed in the worker reports.
+  - The Peggy asset swap, world-map fallback-order diagnosis, and icon-audit coverage list stayed in the worker reports.
+  - Exact sprite filenames, provenance, finishing-pass notes, and creature-by-creature QA details stayed in the sprite reports.
+  - Garden step-by-step coordinate changes and art-install minutiae stayed in the Garden report.
+- items_rejected_or_ignored:
+  - Raw filenames, pixel counts, and prompt packages were not promoted as permanent memory.
+  - No backend companion mutation protocol, remote migration, or live deployment result was available to promote.
+  - The older `MA-08` next-gate state was not retained because it is superseded.
+- files_changed:
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\hot.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\index.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\log.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\shared-platform\overview.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\shared-platform\account-and-auth.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\shared-platform\inventory-boundaries.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\twb-unity\overview.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\twb-creature-spritesheets\overview.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\twb-creature-spritesheets\automation-plan.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\twb-creature-spritesheets\decisions.md`
+  - `C:\Users\yrred\.codex\automations\twb-hourly-memory-curation\memory.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\reports\memory-curation\2026-05-15-21-37-56-twb-hourly-memory-curation.md`
+- open_questions_conflicts:
+  - The eventual backend companion mutation protocol is still undecided.
+  - The Garden visual-review gate remains unchanged and still needs a later confirmed pass if that lane reopens.
+- next_recommended_gate:
+  - Primary: process `MA-12` / `magic` / `urban_commercial`.
+  - Secondary: keep the shared-platform mutation design work at the read-only/projection boundary until the backend contract is approved.

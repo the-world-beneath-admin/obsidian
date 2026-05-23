@@ -1,0 +1,57 @@
+# TWB Hourly Memory Curation Run - 2026-05-15 12:45 CDT
+
+- lock_status: acquired exclusive create-new singleton lock at `memory\.automation-locks\twb-memory-curation.lock.json`
+- lock_conflict: none
+- reports_reviewed:
+  - `memory/short-term/2026-05-15-twb-unity-mirrored-monster-icons-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-pet-card-icons-report.md`
+  - `memory/short-term/2026-05-15-twb-creature-spritesheet-auto-ma-07.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-account-inventory-adoption-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-platform-pre-mutation-gate-report.md`
+  - `memory/short-term/2026-05-15-twb-creature-spritesheet-auto-ma-06.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-companion-conflict-model-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-companion-freshness-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-creature-spritesheet-auto-ma-05.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-companion-eligibility-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-companion-detail-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-unity-shared-companion-projection-slice-report.md`
+  - `memory/short-term/2026-05-15-twb-creature-spritesheet-auto-ma-04.md`
+  - `memory/short-term/2026-05-13-glassroot-garden-asset-conversion-restart-report.md`
+- items_promoted:
+  - Unity shared-account attachment is now a read-only runtime projection. Linked sessions may surface account-selected starter pets and shared companions in Archive/Card Summary when the mirror exists, but remote writes remain blocked pending an explicit mutation protocol.
+  - Unity now has a central read-only shared companion conflict model, freshness labels, and a pre-mutation gate. Shared companion assignment prep blocks local invalid/wrong-role/activity locks first, cached account locks next, and treats missing projection as warning-only.
+  - Pet card icons and mirrored monster previews now reuse the imported pet-icon pipeline rather than a separate monster art path.
+  - Sprite-sheet triads `MA-04` through `MA-07` are `QA Passed`; next pending triad is `MA-08` / `magic` / `rural_agricultural`.
+  - The Garden current state now includes a corrected `4 x 3` 12-plot layout, installed tier 1 well and compost anchors, the lantern-free store entry swap, and the utility-area cleanup, in addition to the stabilized wall/cap geometry.
+- items_kept_only_in_reports:
+  - Exact icon resolver names, card-surface wiring details, and file-by-file implementation paths stayed in the worker reports.
+  - Exact sprite filenames, cleanup pixel counts, provenance paths, and chroma-repair minutiae stayed in the sprite reports.
+  - Exact Garden coordinates, build screenshot paths, and asset crop filenames stayed in the Garden report.
+- items_rejected_or_ignored:
+  - Raw provenance, temporary scratch details, and exact QA counts were not promoted.
+  - The legacy report folders were not needed because fresh short-term reports existed.
+  - No weak guesses or rejected draft state were promoted.
+- files_changed:
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\shared-platform\account-and-auth.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\shared-platform\inventory-boundaries.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\shared-platform\overview.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\shared-platform\open-questions.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\twb-unity\overview.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\twb-unity\decisions.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\twb-unity\open-questions.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\world-keys\the-garden\overview.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\world-keys\the-garden\testing.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\world-keys\the-garden\art-direction-and-asset-risks.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\twb-creature-spritesheets\overview.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\twb-creature-spritesheets\automation-plan.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\wiki\twb-creature-spritesheets\decisions.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\hot.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\index.md`
+  - `C:\Users\yrred\Desktop\Obsidian\Tesseract\memory\log.md`
+- open_questions_conflicts:
+  - The eventual backend companion mutation protocol is still undecided.
+  - The Garden still wants a final visual review of the current loop and any later approved art chunks.
+- next_recommended_gate:
+  - Primary: define the backend event contract, idempotency, conflict model, lock lifetime policy, and offline fallback for the eventual companion mutation path.
+  - Secondary: continue `MA-08` / `magic` / `rural_agricultural`.
+  - Secondary: complete the Garden final visual review after the installed 12-plot and tier 1 utility anchors are visually confirmed.
